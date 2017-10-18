@@ -1,3 +1,6 @@
+git config --global user.name "Harry Potter"
+git config --global user.email "h.potter@hogwarts.prof"
+git config --global core.editor nano
 mkdir snitch-sniffer
 cd snitch-sniffer
 nano README.md
